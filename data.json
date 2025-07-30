@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Jafir Alam",
+        "age": 21,
+        "RS": 350,
+        "unique_code": "ja07"
+    },
+    {
+        "name": "Zuber",
+        "age": 17,
+        "RS": 450,
+        "unique_code": "js"
+    },
+    {
+        "name": "hasen reza",
+        "age": 14,
+        "RS": 400,
+        "unique_code": "ha14"
+    },
+    {
+        "name": "Ansar Alam",
+        "age": 22,
+        "RS": 500,
+        "unique_code": "an22"
+    },
+    {
+        "name": "Shahanawaj Hussain",
+        "age": 14,
+        "RS": 250,
+        "unique_code": "sh14"
+    },
+    {
+        "name": "Riyajuddin",
+        "age": 65,
+        "RS": 700,
+        "unique_code": "ri65"
+    },
+    {
+        "name": "Kamil Hussai",
+        "age": 70,
+        "RS": 200,
+        "unique_code": "js"
+    },
+    {
+        "name": "hsj",
+        "age": 22,
+        "RS": 888,
+        "unique_code": "jsk"
+    },
+    {
+        "name": "jsishhhso",
+        "age": 88,
+        "RS": 72,
+        "unique_code": "ksk"
+    }
+]
